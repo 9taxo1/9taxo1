@@ -1,0 +1,8 @@
+12345678.&#%₺*?qwertyuiopasdfghjklzxcvbnm
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+1234567890
+~!@#$%^&*()_+|`\={}[]:;'<>,./?"1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789012345678.&#%₺*?qwertyuiopasdfghjklzxcvbnm~!@#$%^&*()_+|`\={}[]:;'<>,./?"
+12345678.&#%₺*?qwertyuiopasdfghjklzxcvbnmABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890~!@#$%^&*()_+|`\={}[]:;'<>,./?"
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890~!@#$%^&*()_+|`\={}[]:;'<>,./?"
